@@ -1,0 +1,15 @@
+Z:\programacioninsta\tp03-Zaselsky\bin\Debug\net7.0\tp03-Zaselsky.exe
+Z:\programacioninsta\tp03-Zaselsky\bin\Debug\net7.0\tp03-Zaselsky.deps.json
+Z:\programacioninsta\tp03-Zaselsky\bin\Debug\net7.0\tp03-Zaselsky.runtimeconfig.json
+Z:\programacioninsta\tp03-Zaselsky\bin\Debug\net7.0\tp03-Zaselsky.dll
+Z:\programacioninsta\tp03-Zaselsky\bin\Debug\net7.0\tp03-Zaselsky.pdb
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\tp03-Zaselsky.csproj.AssemblyReference.cache
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\tp03-Zaselsky.GeneratedMSBuildEditorConfig.editorconfig
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\tp03-Zaselsky.AssemblyInfoInputs.cache
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\tp03-Zaselsky.AssemblyInfo.cs
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\tp03-Zaselsky.csproj.CoreCompileInputs.cache
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\tp03-Zaselsky.dll
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\refint\tp03-Zaselsky.dll
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\tp03-Zaselsky.pdb
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\tp03-Zaselsky.genruntimeconfig.cache
+Z:\programacioninsta\tp03-Zaselsky\obj\Debug\net7.0\ref\tp03-Zaselsky.dll
